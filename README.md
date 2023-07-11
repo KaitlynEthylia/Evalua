@@ -17,11 +17,11 @@ Viewable on Asciinema
 ## Installation
 
 ### Lazy.nvim
-```
-{
+```lua
+return {
 	'KaitlynEthylia/Evalua',
 	dependencies = 'nvim-treesitter/nvim-treesitter',
-	init = function() require('treepin') end,
+	init = function() require('Evalua') end,
 }
 ```
 
