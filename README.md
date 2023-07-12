@@ -6,7 +6,7 @@ Inspired by the on-the-fly elisp evaluation functionality in emacs.
 ## Demo
 
 Viewable on Asciinema
-[![asciicast](https://asciinema.org/a/596185.svg)](https://asciinema.org/a/596185)
+[![asciicast](https://asciinema.org/a/596274.svg)](https://asciinema.org/a/596274)
 
 ## Installation
 
