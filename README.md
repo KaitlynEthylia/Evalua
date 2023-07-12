@@ -1,9 +1,3 @@
-> **Warning**
-> This plugin was created in just a couple hours and does NOT work
-> all the time. I do intend to try and fix some of the issues with it
-> but please bear with me. Any contributions to help with this are
-> very much appreciated. -Kaitlyn
-
 # Evalua
 
 A tiny neovim plugin for evaluating Lua code on-the-fly.
